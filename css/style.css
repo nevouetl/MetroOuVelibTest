@@ -1,0 +1,161 @@
+/*
+ TOUTES LES PAGES
+*/
+
+.tabs-footer
+{
+	position:relative;
+}
+
+/*
+ DEFINIR UNE ADRESSE
+*/
+
+.city_search
+{
+}
+
+/*.hour_select_definir_une_adresse
+{
+    width : 170px;
+    border-width: 0px;
+    position:relative;
+    margin:10px;
+}
+
+.minute_select_definir_une_adresse
+{
+    width : 180px;
+    border-width: 0px;
+    position:absolute;
+    top:139px;
+    left:170px;
+}*/
+
+.validerButton
+{
+	border-radius:10px;
+	position:relative;
+}
+
+.geolocaliserButton
+{
+	border-radius:10px;
+	position:relative;
+}
+
+.CityName
+{
+	position:relative;	
+}
+
+.liste_temperature
+{
+	margin-top:20px;
+}
+
+.weather_icon
+{
+	width:30%;
+	height:90%;
+	position:absolute;
+	left:0px;
+	bottom:8%;
+}
+.affichage_date
+{
+}
+
+/*
+ DEFINIR UN TRAJET
+*/
+
+.search_start
+{
+	position:relative;
+}
+
+.search_end
+{
+	position:relative;
+	margin-top:0.5%;
+    width:90%;
+}
+
+.hour_select_definir_un_trajet
+{
+    width : 170px;
+    border-width: 0px;
+    position:relative;
+    top:5px; 
+    z-index: 
+}
+
+.minute_select_definir_un_trajet
+{
+    width : 170px;
+    border-width: 0px;
+    position:absolute;
+    left:170px;
+    bottom:60px
+}
+
+.validerButtonTrajet
+{
+	z-index:10;
+	border-radius:10px;
+	position:relative;
+}
+
+#geolocate_button
+{
+	z-index:10;
+	position:absolute;
+    width:60px;
+    height:10px;
+	bottom:100px;
+	right:10px;
+    box-shadow: 20px;
+}
+
+#navigate_button
+{
+	z-index:10;
+	position:absolute;
+    width:60px;
+    height:10px;
+	bottom:160px;
+	right:10px;
+}
+
+/*
+ CARTE
+*/
+
+.scroll 
+{
+	height: 100%;
+}
+
+#map 
+{
+	position:relative;
+	width: 100%;
+	height: 93%;
+    bottom:0px;
+}
+
+.card
+{
+    position:absolute;
+    width:96%;
+}
+
+.footer_card_definir_un_trajet
+{
+    bottom:0px;
+}
+
+
+
+
